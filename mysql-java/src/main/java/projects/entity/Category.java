@@ -1,11 +1,9 @@
-// Copyright (c) 2022 Promineo Tech
-
-package recipes.entity;
+/**
+ * 
+ */
+package projects.entity;
 
 /**
- * This class holds data from a row in the category table. It has getters and
- * setters for each field, and a {@link #toString()} method.
- * 
  * @author Promineo
  *
  */
